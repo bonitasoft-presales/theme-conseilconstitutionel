@@ -4,11 +4,11 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.bonitasoft.theme</groupId>
-    <artifactId>CustomerServicesTheme</artifactId>
+    <artifactId>theme-customerservices</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>CustomerServicesTheme</name>
-    <description>Theme for customer portal</description>
+    <name>Customer Services Theme</name>
+    <description>Theme for customer portal in Showroom</description>
     <properties>
         <npm.version>6.9.0</npm.version>
         <node.version>v10.16.3</node.version>
