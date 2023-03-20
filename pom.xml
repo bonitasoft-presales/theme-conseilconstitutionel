@@ -2,10 +2,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.bonitasoft.presales.theme</groupId>
-    <artifactId>theme-customerservices</artifactId>
+    <artifactId>theme-conseilconstitutionel</artifactId>
     <version>1.0.7-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>Customer Services Theme</name>
+    <name>Conseil Constitutionel Theme</name>
     <description>Theme for customer portal in Showroom</description>
     <properties>
         <npm.version>6.9.0</npm.version>
