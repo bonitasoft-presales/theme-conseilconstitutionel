@@ -2,7 +2,6 @@
 target
 dist/theme.css
 package-lock.json
-package.json
 
 # temporary node build folder
 node_modules

@@ -6,7 +6,7 @@
     <version>1.0.7-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Conseil Constitutionel Theme</name>
-    <description>Theme for customer portal in Showroom</description>
+    <description>Theme for conseil constitutionel</description>
     <properties>
         <npm.version>6.9.0</npm.version>
         <node.version>v10.16.3</node.version>
