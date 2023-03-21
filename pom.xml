@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.bonitasoft.presales.theme</groupId>
     <artifactId>theme-conseilconstitutionel</artifactId>
-    <version>1.0.8-SNAPSHOT</version>
+    <version>1.0.8</version>
     <packaging>pom</packaging>
     <name>Conseil Constitutionel Theme</name>
     <description>Theme for conseil constitutionel</description>
@@ -81,7 +81,7 @@
         <url>https://github.com/${github.owner}/${github.repo}</url>
         <developerConnection>scm:git:${project.scm.url}.git</developerConnection>
         <connection>scm:git:${project.scm.url}.git</connection>
-        <tag>HEAD</tag>
+        <tag>theme-conseilconstitutionel-1.0.8</tag>
     </scm>
     <distributionManagement>
         <snapshotRepository>
