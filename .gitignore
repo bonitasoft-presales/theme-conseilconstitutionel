@@ -10,3 +10,4 @@ node
 
 # ignore IntelliJ project content
 .idea
+.vscode
